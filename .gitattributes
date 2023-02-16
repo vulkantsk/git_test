@@ -1,1 +1,2 @@
 *.vpk filter=lfs diff=lfs merge=lfs -text
+content/rd_reborn/maps/prefabs/rd_loc_water.vmap  filter=lfs diff=lfs merge=lfs -text
